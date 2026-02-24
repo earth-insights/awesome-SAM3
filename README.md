@@ -28,5 +28,14 @@
 
 | Title                                                         | Code                                                         | About                                                        |
 | ------------------------------------------------------------  | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| AnyLabeling | [Code](https://github.com/vietanhdev/anylabeling) | Effortless AI-assisted data labeling with AI support from YOLO, Segment Anything (SAM+SAM2/2.1+SAM3), MobileSAM!! |
+| ISAT_with_segment_anything | [Code](https://github.com/yatengLG/ISAT_with_segment_anything) | Labeling tool with SAM(segment anything model),supports SAM, SAM2, SAM3, sam-hq, MobileSAM EdgeSAM etc.交互式半自动图像标注工具 |
 | MHR | [Code](https://github.com/facebookresearch/MHR) | Momentum Human Rig is an anatomically-inspired parametric full-body digital human model developed at Meta. It includes: A parametric body skeletal model; A realistic 3D mesh skinned to the skeleton with levels of detail;A body blendshape and pose corrective model; A facial blendshape model.Its design is friendly for both CG and CV communities. |
-
+| ComfyUI-SAM3 | [Code](https://github.com/PozzettiAndrea/ComfyUI-SAM3) | ComfyUI wrapper for segment anything 3 |
+| ComfyUI-SAM3DBody | [Code](https://github.com/PozzettiAndrea/ComfyUI-SAM3DBody) | ComfyUI wrapper for sam-3d-body |
+| ComfyUI-SAM3DObjects | [Code](https://github.com/PozzettiAndrea/ComfyUI-SAM3DObjects) | ComfyUI wrapper for sam-3d-objects |
+| sam3-onnx | [Code](https://github.com/wkentaro/sam3-onnx) | ONNX export and inference for SAM3. |
+| SAM3_LoRA | [Code](https://github.com/Sompote/SAM3_LoRA) | Finetune SAM3 with LoRA — optimized for images. A simple setup for training SAM3 on image datasets. Video finetuning is not yet supported but planned for future releases. |
+| SAM3-TensorRT | [Code](https://github.com/dataplayer12/SAM3-TensorRT) | TensorRT Engine for SAM-3 model by Meta AI |
+| insight-sam3 | [Code](https://github.com/alexdimopoulos/insight-sam3) | Uses SAM3 to transfer 2D semantics onto 3D point clouds, producing segmented training data and efficient scene graphs for indoor environments. | 
+| autodistill-sam3 | [Code](https://github.com/autodistill/autodistill-sam3) | Use Segment Anything 3 to label data for use with Autodistill. |
