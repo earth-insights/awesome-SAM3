@@ -12,11 +12,14 @@
 | 2025.12 | SAM3-I: Segment Anything with Instructions | [Code](https://github.com/debby-0527/SAM3-I)| [arXiv'2025](https://arxiv.org/abs/2512.04585)               |
 | 2025.12 | The SAM2-to-SAM3 Gap in the Segment Anything Model Family: Why Prompt-Based Expertise Fails in Concept-Driven Image Segmentation | - | [arXiv'2025](https://arxiv.org/abs/2512.06032)               |
 | 2025.12 | More than Segmentation: Benchmarking SAM 3 for Segmentation, 3D Perception, and Reconstruction in Robotic Surgery | - | [arXiv'2025](https://arxiv.org/abs/2512.07596)               |
-| 2025.12 | SegEarth-OV3: Exploring SAM 3 for Open-Vocabulary Semantic Segmentation in Remote Sensing Images | [Code](https://github.com/earth-insights/SegEarth-OV-3)| [arXiv'2025](https://arxiv.org/abs/2512.08730)               |
+| 2025.12 | SegEarth-OV3: Exploring SAM 3 for Open-Vocabulary Semantic Segmentation in Remote Sensing Images | [Code](https://github.com/earth-insights/SegEarth-OV-3) | [arXiv'2025](https://arxiv.org/abs/2512.08730)               |
+| 2025.12 | Depth-Copy-Paste: Multimodal and Depth-Aware Compositing for Robust Face Detection | - | [arXiv'2025](https://arxiv.org/abs/2512.11683)               |
 | 2025.12 | Generalization vs. Specialization: Evaluating Segment Anything Model (SAM3) Zero-Shot Segmentation Against Fine-Tuned YOLO Detectors | [Code](https://github.com/Applied-AI-Research-Lab/Segment-Anything-Model-SAM3-Zero-Shot-Segmentation-Against-Fine-Tuned-YOLO-Detectors)| [arXiv'2025](https://arxiv.org/abs/2512.11884)               |
 | 2025.12 | On the Effectiveness of Textual Prompting with Lightweight Fine-Tuning for SAM3 Remote Sensing Segmentation | - | [arXiv'2025](https://arxiv.org/abs/2512.15564)               |
 | 2025.12 | Memory-Enhanced SAM3 for Occlusion-Robust Surgical Instrument Segmentation | [Code](https://valaybundele.github.io/remedi-sam3/)| [arXiv'2025](https://arxiv.org/abs/2512.16880)               |
 | 2025.12 | SAM Audio: Segment Anything in Audio | [Code](https://github.com/facebookresearch/sam-audio)| [arXiv'2025](https://arxiv.org/abs/2512.18099)               |
+| 2025.12 | Rethinking Memory Design in SAM-Based Visual Object Tracking | [Code](https://github.com/HamadYA/SAM3_Tracking_Zoo) | [arXiv'2025](https://arxiv.org/abs/2512.22624)               | 
+| 2025.12 | Evolving, Not Training: Zero-Shot Reasoning Segmentation via Evolutionary Prompting | [Code](https://github.com/AHideoKuzeA/Evol-SAM3) | [arXiv'2025](https://arxiv.org/abs/2512.24702)               |
 | 2026.01 | SAM3-DMS: Decoupled Memory Selection for Multi-target Video Segmentation of SAM3 | [Code](https://github.com/FudanCVL/SAM3-DMS)| [arXiv'2026](https://arxiv.org/abs/2601.09699)               |
 | 2026.01 | Medical SAM3: A Foundation Model for Universal Prompt-Driven Medical Image Segmentation | [Code](https://github.com/AIM-Research-Lab/Medical-SAM3)| [arXiv'2026](https://arxiv.org/abs/2601.10880)               |
 | 2026.01 | OmniOVCD: Streamlining Open-Vocabulary Change Detection with SAM 3 | [Code](x)| [arXiv'2026](https://arxiv.org/abs/2601.13895)               |
