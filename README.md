@@ -20,9 +20,12 @@
 | 2026.01 | SAM3-DMS: Decoupled Memory Selection for Multi-target Video Segmentation of SAM3 | [Code](https://github.com/FudanCVL/SAM3-DMS)| [arXiv'2026](https://arxiv.org/abs/2601.09699)               |
 | 2026.01 | Medical SAM3: A Foundation Model for Universal Prompt-Driven Medical Image Segmentation | [Code](https://github.com/AIM-Research-Lab/Medical-SAM3)| [arXiv'2026](https://arxiv.org/abs/2601.10880)               |
 | 2026.01 | OmniOVCD: Streamlining Open-Vocabulary Change Detection with SAM 3 | [Code](x)| [arXiv'2026](https://arxiv.org/abs/2601.13895)               |
+| 2026.01 | C-RADIOv4 (Tech Report) | [Code](https://github.com/NVlabs/RADIO) | [arXiv'2026](https://arxiv.org/abs/2601.17237)               | 
 | 2026.02 | Taming SAM3 in the Wild: A Concept Bank for Open-Vocabulary Segmentation | [Code](https://github.com/pgsmall/ConceptBank)| [arXiv'2026](https://arxiv.org/abs/2602.06333)               |
+| 2026.02 | VLM-Guided Iterative Refinement for Surgical Image Segmentation with Foundation Models | - | [arXiv'2026](https://arxiv.org/abs/2602.15989)               | 
 | 2026.02 | SAM3-LiteText: An Anatomical Study of the SAM3 Text Encoder for Efficient Vision-Language Segmentation | [Code](https://github.com/SimonZeng7108/efficientsam3/tree/sam3_litetext)| [arXiv'2026](https://arxiv.org/abs/2602.12173)               |
 | 2026.02 | SAM 3D Body: Robust Full-Body Human Mesh Recovery | [Code](https://github.com/facebookresearch/sam-3d-body)| [arXiv'2026](https://arxiv.org/abs/2602.15989)               |
+
 
 ## Projects
 
