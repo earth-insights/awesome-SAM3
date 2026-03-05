@@ -28,7 +28,7 @@
 | 2026.02 | VLM-Guided Iterative Refinement for Surgical Image Segmentation with Foundation Models | - | [arXiv'2026](https://arxiv.org/abs/2602.15989)               | 
 | 2026.02 | SAM3-LiteText: An Anatomical Study of the SAM3 Text Encoder for Efficient Vision-Language Segmentation | [Code](https://github.com/SimonZeng7108/efficientsam3/tree/sam3_litetext)| [arXiv'2026](https://arxiv.org/abs/2602.12173)               |
 | 2026.02 | SAM 3D Body: Robust Full-Body Human Mesh Recovery | [Code](https://github.com/facebookresearch/sam-3d-body)| [arXiv'2026](https://arxiv.org/abs/2602.15989)               |
-| 2026.03 | CAD-Prompted SAM3: Geometry-Conditioned Instance Segmentation for Industrial Objects | - | [arXiv'2026](https://arxiv.org/abs/2602.20551)               |
+| 2026.02 | CAD-Prompted SAM3: Geometry-Conditioned Instance Segmentation for Industrial Objects | - | [arXiv'2026](https://arxiv.org/abs/2602.20551)               |
 
 
 ## Projects
