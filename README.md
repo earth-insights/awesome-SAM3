@@ -29,7 +29,10 @@
 | 2026.02 | SAM3-LiteText: An Anatomical Study of the SAM3 Text Encoder for Efficient Vision-Language Segmentation | [Code](https://github.com/SimonZeng7108/efficientsam3/tree/sam3_litetext)| [arXiv'2026](https://arxiv.org/abs/2602.12173)               |
 | 2026.02 | SAM 3D Body: Robust Full-Body Human Mesh Recovery | [Code](https://github.com/facebookresearch/sam-3d-body)| [arXiv'2026](https://arxiv.org/abs/2602.15989)               |
 | 2026.02 | CAD-Prompted SAM3: Geometry-Conditioned Instance Segmentation for Industrial Objects | - | [arXiv'2026](https://arxiv.org/abs/2602.20551)               |
-
+| 2026.03 | OPTED: Open Preprocessed Trachoma Eye Dataset Using Zero-Shot SAM 3 Segmentation | - | [arXiv'2026](https://arxiv.org/abs/2603.06885)               |
+| 2026.03 | Detect Anything in Real Time: From Single-Prompt Segmentation to Multi-Class Detection | [Code](https://github.com/mkturkcan/DART) | [arXiv'2026](https://arxiv.org/abs/2603.11441)               |
+| 2026.03 | Eye image segmentation using visual and concept prompts with Segment Anything Model 3 (SAM3) | - | [arXiv'2026](https://arxiv.org/abs/2603.17715)               |
+| 2026.03 | Adapting Segment Anything Model 3 for Concept-Driven Lesion Segmentation in Medical Images: An Experimental Study | [Code](https://github.com/apple1986/lesion-sam3) | [arXiv'2026](https://arxiv.org/abs/2603.25945)               |
 
 ## Projects
 
